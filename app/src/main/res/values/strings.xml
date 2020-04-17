@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="headline">Headline</string>
+    <string name="category">Category</string>
+    <string name="source">Source</string>
+    <string name="title_bookmarks">Bookmarks</string>
+    <string name="read">READ</string>
+    <string name="bookmarks">BOOKMARKS</string>
+    <string name="delete">DELETE</string>
+    <string name="search_text">Sorry! Can not find anything.</string>
+    <string name="empty_list">Empty List</string>
+    <string name="article_image">article image</string>
+</resources>
